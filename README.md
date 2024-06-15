@@ -33,10 +33,6 @@ Este projeto é uma aplicação web que exibe atividades atuais do curso de Enge
    ```
 3. **Abra o arquivo `index.html` no navegador para visualizar a aplicação.**
 
-## Screenshot
-
-![Screenshot](screenshot.png)
-
 ## Contribuição
 
 1. Faça um fork do repositório
