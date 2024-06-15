@@ -1,0 +1,292 @@
+{
+    "ELEMENTOS DE FISICA": [],
+    "QUIMICA GERAL BASICA": [],
+    "INTRODUCAO A ENGENHARIA DE COMPUTACAO": [
+        {
+            "name": "Tarefa teórica 01 - acolhida discente",
+            "opened_date": "2024-04-30T00:00:00",
+            "due_date": "2024-05-21T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=628242",
+            "is_active": false
+        },
+        {
+            "name": "Atividade prática 02 - Introdução ao LateX e Overleaf",
+            "opened_date": "2023-04-27T00:00:00",
+            "due_date": "2024-06-11T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=611325",
+            "is_active": false
+        },
+        {
+            "name": "Atividade Teórica 03",
+            "opened_date": "2024-05-27T00:00:00",
+            "due_date": "2024-06-16T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=630837",
+            "is_active": true
+        },
+        {
+            "name": "Atividade prática 04 - Tarefa Linux e Git",
+            "opened_date": "2023-06-05T00:00:00",
+            "due_date": "2024-07-02T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=611331",
+            "is_active": true
+        }
+    ],
+    "FUNDAMENTOS DE HARDWARE E SOFTWARE - 2024/1": [
+        {
+            "name": "AN - Atividade de Nivelamento\nQuiz",
+            "opened_date": "2024-03-20T20:50:00",
+            "due_date": "2024-03-20T22:40:00",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=611492",
+            "is_active": false
+        },
+        {
+            "name": "Resumo e Resolução de Problema",
+            "opened_date": "2024-03-25T18:50:00",
+            "due_date": "2024-03-27T20:50:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=611512",
+            "is_active": false
+        },
+        {
+            "name": "Mapa Conceitual",
+            "opened_date": "2024-03-27T20:40:00",
+            "due_date": "2024-03-28T23:55:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=611515",
+            "is_active": false
+        },
+        {
+            "name": "Mapa Mental sobre Resolução de Problemas",
+            "opened_date": "2024-04-01T18:50:00",
+            "due_date": "2024-04-01T21:00:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=619718",
+            "is_active": false
+        },
+        {
+            "name": "Resolução de Problema com PC - Quadro horário",
+            "opened_date": "2024-04-01T18:50:00",
+            "due_date": "2024-04-01T21:00:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=619720",
+            "is_active": false
+        },
+        {
+            "name": "Jogo 01: Algoritmo",
+            "opened_date": "2024-04-03T20:50:00",
+            "due_date": "2024-04-03T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=611532",
+            "is_active": false
+        },
+        {
+            "name": "Jogo 02: Algoritmo",
+            "opened_date": "2024-04-03T20:50:00",
+            "due_date": "2024-04-07T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=620650",
+            "is_active": false
+        },
+        {
+            "name": "Jogo 03: Algoritmo",
+            "opened_date": "2024-04-03T20:50:00",
+            "due_date": "2024-04-07T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=620651",
+            "is_active": false
+        },
+        {
+            "name": "Tarefa: Envio do Algoritmo para Ordenação",
+            "opened_date": "2024-04-10T00:00:00",
+            "due_date": "2024-04-10T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=623067",
+            "is_active": false
+        },
+        {
+            "name": "Projeto PC: Controle de Despesas Pessoais",
+            "opened_date": "2024-04-22T00:00:00",
+            "due_date": "2024-04-23T12:00:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=625316",
+            "is_active": false
+        },
+        {
+            "name": "Mapa Conceitual: Cap I: Organização e Projeto de Computadores: a interface hardware/software.",
+            "opened_date": "2024-04-24T00:00:00",
+            "due_date": "2024-04-29T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=627145",
+            "is_active": false
+        },
+        {
+            "name": "Resolução - Lista de exercícios sobre bases numéricas.",
+            "opened_date": "2024-04-24T00:00:00",
+            "due_date": "2024-05-01T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=627948",
+            "is_active": false
+        },
+        {
+            "name": "Correção: Avaliação 01\nQuiz",
+            "opened_date": "2024-05-04T19:00:00",
+            "due_date": "2024-06-06T23:00:00",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=628509",
+            "is_active": false
+        },
+        {
+            "name": "Atividade 1 - Mapa Conceitual (Organização e Arquitetura de Computadores - Aula 5)",
+            "opened_date": "2024-05-27T00:00:00",
+            "due_date": "2024-05-29T20:00:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=630889",
+            "is_active": false
+        },
+        {
+            "name": "Atividade 2 - Criar uma apresentação (Organização e Arquitetura de Computadores - Aula 5) (copiado)",
+            "opened_date": "2024-05-27T00:00:00",
+            "due_date": "2024-05-29T20:00:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=630890",
+            "is_active": false
+        },
+        {
+            "name": "Mapa Conceitual: manipulação de Arrays, Instruções LW e ST",
+            "opened_date": "2024-05-27T00:00:00",
+            "due_date": "2024-06-03T20:40:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=631780",
+            "is_active": false
+        }
+    ],
+    "GESTAO DE PROJETOS I (2024 / 01)": [
+        {
+            "name": "TAREFA: Fábrica de Barquinhos",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=618701",
+            "is_active": false
+        },
+        {
+            "name": "TAREFA: Project Model Canvas",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=621655",
+            "is_active": false
+        },
+        {
+            "name": "TAREFA: Termo de Abertura do Projeto",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=623317",
+            "is_active": false
+        },
+        {
+            "name": "TAREFA: Declaração de Escopo",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=624667",
+            "is_active": false
+        },
+        {
+            "name": "TAREFA: Formulário para Proposta Executiva do Projeto",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=627377",
+            "is_active": false
+        },
+        {
+            "name": "TAREFA: Elaboração da Estrutura Analítica do Projeto (EAP)",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=629984",
+            "is_active": false
+        },
+        {
+            "name": "QUIZ AULA 07 (23/05)",
+            "opened_date": "2024-05-23T19:00:00",
+            "due_date": "2024-06-03T23:59:00",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=630029",
+            "is_active": false
+        },
+        {
+            "name": "TAREFA: Elaboração da Estrutura Analítica do Projeto (EAP)",
+            "opened_date": "2024-06-06T19:00:00",
+            "due_date": "2024-06-13T19:00:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=632381",
+            "is_active": false
+        },
+        {
+            "name": "QUIZ AULA 08 (06/06)",
+            "opened_date": "2024-06-06T19:00:00",
+            "due_date": "2024-06-13T23:59:00",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=632418",
+            "is_active": false
+        },
+        {
+            "name": "TAREFA: Elaboração da Estrutura Analítica do Risco (EAR)",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=633659",
+            "is_active": false
+        },
+        {
+            "name": "QUIZ AULA 08 (06/06)",
+            "opened_date": "2024-06-13T19:00:00",
+            "due_date": "Closes: Thursday, 20 June 2024, 11:59 PM",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=633750",
+            "is_active": false
+        }
+    ],
+    "ELEMENTOS DE MATEMATICA": [
+        {
+            "name": "Atividade Avaliativa - Semana 3",
+            "opened_date": "2024-04-03T00:00:00",
+            "due_date": "2024-04-09T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=608388",
+            "is_active": false
+        },
+        {
+            "name": "Atividade Avaliativa - Semana 6",
+            "opened_date": "2024-04-26T10:00:00",
+            "due_date": "2024-05-03T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=608438",
+            "is_active": false
+        },
+        {
+            "name": "Atividade Avaliativa - Semana 8",
+            "opened_date": "2024-05-07T00:00:00",
+            "due_date": "2024-05-17T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=628562",
+            "is_active": false
+        },
+        {
+            "name": "Avaliação A4 - Trabalho de Pesquisa",
+            "opened_date": "2024-06-12T00:00:00",
+            "due_date": "2024-06-27T23:59:00",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=608554",
+            "is_active": true
+        }
+    ]
+}
