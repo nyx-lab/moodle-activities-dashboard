@@ -3,12 +3,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-![image](https://github.com/nyx-lab/moodle-activities-dashboard/assets/171764829/9b1954c2-c71e-43c2-9713-94bd6b8c5664)
-
 ## Descrição
 
 Este projeto é uma aplicação web que exibe atividades atuais do curso de Engenharia de Computação. A aplicação permite visualizar tarefas e atividades, ordená-las, filtrá-las por tipo e buscar por título. A interface é responsiva, fácil de usar e foi desenvolvida com foco em desempenho e acessibilidade.
+
+![image](https://github.com/nyx-lab/moodle-activities-dashboard/assets/171764829/9b1954c2-c71e-43c2-9713-94bd6b8c5664)
+
 
 ## Tecnologias Utilizadas
 
