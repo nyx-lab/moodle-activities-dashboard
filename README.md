@@ -10,7 +10,7 @@ Este projeto é uma aplicação web que exibe atividades atuais do curso de Enge
 ![image](https://github.com/nyx-lab/moodle-activities-dashboard/assets/171764829/9b1954c2-c71e-43c2-9713-94bd6b8c5664)
 
 
-## Funcionalidades
+## Funcionalidades_
 
 - **Ordenação:**
   - Ordem Ascendente (asc)
