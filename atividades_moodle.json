@@ -29,6 +29,13 @@
             "due_date": "Tuesday, 2 July 2024, 11:59 PM",
             "type": "assignment",
             "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=611331"
+        },
+        {
+            "name": "Debates sobre problemas éticos da computação - atividade teórica 05",
+            "opened_date": "Wednesday, 14 June 2023, 12:00 AM",
+            "due_date": "Sunday, 7 July 2024, 11:59 PM",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=611334"
         }
     ],
     "FUNDAMENTOS DE HARDWARE E SOFTWARE - 2024/1": [
@@ -147,6 +154,13 @@
     ],
     "GESTAO DE PROJETOS I (2024 / 01)": [
         {
+            "name": "QUIZ AULA 01 (28/03)",
+            "opened_date": "Thursday, 20 June 2024, 4:15 PM",
+            "due_date": "Thursday, 27 June 2024, 11:59 PM",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=634991"
+        },
+        {
             "name": "TAREFA: Fábrica de Barquinhos",
             "opened_date": "Data de abertura não encontrada",
             "due_date": "Data de vencimento não encontrada",
@@ -154,11 +168,25 @@
             "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=618701"
         },
         {
+            "name": "QUIZ AULA 02 (04/04)",
+            "opened_date": "Opens: Thursday, 27 June 2024, 7:00 PM",
+            "due_date": "Thursday, 4 July 2024, 11:59 PM",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=635888"
+        },
+        {
             "name": "TAREFA: Project Model Canvas",
             "opened_date": "Data de abertura não encontrada",
             "due_date": "Data de vencimento não encontrada",
             "type": "assignment",
             "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=621655"
+        },
+        {
+            "name": "QUIZ AULA 03 (11/04)",
+            "opened_date": "Opens: Thursday, 27 June 2024, 7:00 PM",
+            "due_date": "Thursday, 4 July 2024, 11:59 PM",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=635893"
         },
         {
             "name": "TAREFA: Termo de Abertura do Projeto",
@@ -191,7 +219,7 @@
         {
             "name": "QUIZ AULA 07 (23/05)",
             "opened_date": "Thursday, 23 May 2024, 7:00 PM",
-            "due_date": "Monday, 3 June 2024, 11:59 PM",
+            "due_date": "Thursday, 20 June 2024, 11:59 PM",
             "type": "quiz",
             "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=630029"
         },
@@ -217,11 +245,32 @@
             "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=633659"
         },
         {
-            "name": "QUIZ AULA 08 (06/06)",
+            "name": "QUIZ AULA 08 (13/06)",
             "opened_date": "Thursday, 13 June 2024, 7:00 PM",
             "due_date": "Thursday, 20 June 2024, 11:59 PM",
             "type": "quiz",
             "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=633750"
+        },
+        {
+            "name": "TAREFA: Elaboração do Cronograma do Projeto",
+            "opened_date": "Data de abertura não encontrada",
+            "due_date": "Data de vencimento não encontrada",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=635037"
+        },
+        {
+            "name": "QUIZ AULA 10 (20/06)",
+            "opened_date": "Monday, 24 June 2024, 3:40 PM",
+            "due_date": "Thursday, 27 June 2024, 11:59 PM",
+            "type": "quiz",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/quiz/view.php?id=635543"
+        },
+        {
+            "name": "TAREFA: Desafio Scrum",
+            "opened_date": "Thursday, 27 June 2024, 12:00 AM",
+            "due_date": "Thursday, 4 July 2024, 12:00 AM",
+            "type": "assignment",
+            "link": "https://moodle.unipampa.edu.br/moodle/mod/assign/view.php?id=636373"
         }
     ],
     "ELEMENTOS DE MATEMATICA": [
